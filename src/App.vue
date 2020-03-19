@@ -11,7 +11,7 @@
         </b-col>
     </b-row>
   </b-container>
-
+</template>
 
 <script>
 import Navbar from '@/components/Navbar';
